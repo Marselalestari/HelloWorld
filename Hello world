@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
-//SUDAH DI CEK PAK MOKO
+// MARSELA AJENG LESTARI SUDAH DI CEK PAK MOKO
 int main(void)
 {
  string name = get_string("What's your name? ");
